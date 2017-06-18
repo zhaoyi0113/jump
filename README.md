@@ -6,6 +6,7 @@ This is project was built with Reactjs and managed by webpack. Please follow bel
  yarn install
  yarn start
 ```
+after successfully launched, open browser to access http://localhost:5000
 
 Project folder structure:
 
